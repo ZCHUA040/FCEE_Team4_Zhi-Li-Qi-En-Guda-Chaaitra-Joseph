@@ -3,12 +3,14 @@
 ## About
 This is the mini project of Group 4 from Lab Group FCEE for SC1015 (Introduction to Data Science and Artificial Intelligence).
 
-Telecom churn refers to the phenomenon where customers switch from one telecom service provider to another. In Singapore, this is a significant issue for telecom companies as it impacts their revenue and market share. The problem statement typically involves understanding why customers churn, predicting which customers are likely to churn in the future, and implementing strategies to reduce churn rates.
+Telecom churn refers to the phenomenon where customers switch from one telecom service provider to another. It is a problem not only in Singapore but in many different countries, this is a significant issue for telecom companies as it impacts their revenue and market share. The problem statement typically involves understanding why customers churn, predicting which customers are likely to churn in the future, and implementing strategies to reduce churn rates.
+
+To address the problem of churn in telecom industry, companies may employ data analytics and machine learning techniques to analyze customer data, identify churn patterns, and develop predictive models. These models can help companies proactively intervene with at-risk customers, offer targeted promotions or incentives, and improve overall customer satisfaction to reduce churn rates and increase customer retention.
 
 ## Problem Definition
-- TEST1
-- TEST2
-- TEST3 
+- What are the main factors influencing telecom churn?
+- Can we accurately predict which customers are likely to churn in the future?
+- What strategies can telecom companies implement to reduce churn rates and increase customer retention?
 
 ## Dataset Used
 The dataset used for this project is retrieved from [Kaggle](https://www.kaggle.com/datasets/vhcg77/telcom-churns-dataset).
