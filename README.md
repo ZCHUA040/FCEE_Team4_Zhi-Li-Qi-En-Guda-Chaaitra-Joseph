@@ -115,7 +115,7 @@ The presentation video can be found [here](INSERT YOUR YOUTUBE LINK HERE).
 
 ## Contributors
 
-1. [@zchua040](https://github.com/zchua040) (Chua Zhi Li) - Data Preparation & Cleaning, Exploratory Data Analysis, Presentation Slides, Model Training Attempt 1 and 2
+1. [@zchua040](https://github.com/zchua040) (Chua Zhi Li) - Data Preparation & Cleaning, EDA, Model Training Attempt 1 and 2, Presentation Slides, Presenter
 2. [@chaaitra001](https://github.com/chaaitra001) (Guda Chaaitra Joseph) - Model Training Attempt 3, Presentation Slides, Presenter
 3. [@qchong005](https://github.com/qchong005) (Chong Qi En) - Model Training Attempt 4, Presentation Slides, Presenter
 
