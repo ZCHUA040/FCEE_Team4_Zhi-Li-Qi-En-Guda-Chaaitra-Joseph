@@ -3,6 +3,7 @@
 ## About
 This is the mini project of Group 4 from Lab Group FCEE for SC1015 (Introduction to Data Science and Artificial Intelligence).
 
+Given the escalating spread of fake news amid the COVID-19 pandemic, our team decided to delve into analyzing fake news.
 
 ## Problem Definition
 - TEST1
@@ -18,106 +19,100 @@ The presentation video can be found [here](INSERT YOUR YOUTUBE LINK HERE).
 ## Brief Process Walkthrough 
 
 1. **Data Preparation & Cleaning**
-    - Data cleaning
-      - Salvage empty rows with mean value
-      - Drop empty rows after all cleaning steps (Dirty data)
-      - Dropping of irrelevant columns
+    - Salvaged empty rows by imputing mean values
+    - Removed rows with missing data after cleaning steps (Dirty data)
+    - Dropped irrelevant columns
         
-    - Data generation
-      - Upsampling of the minority classes to ensure overall balance.
+    - Generated data by upsampling minority classes to ensure overall balance.
 
 2. **Exploratory Data Analysis**
-   - Class analysis
-   - Word count & char count analysis
-   - Author analysis
-   - Corpus analysis
-   - N-gram analysis
-   - Sentiment & emotion analysis
-   - Parts-of-speech (POS) analysis
-   - Correlation analysis
+   - Conducted class analysis
+   - Performed word count & character count analysis
+   - Analyzed authors' contributions
+   - Explored corpus statistics
+   - Utilized N-gram analysis
+   - Conducted sentiment & emotion analysis
+   - Performed parts-of-speech (POS) analysis
+   - Investigated correlation among features
   
-3. **Model Training Attempt 1**
-   - TF-IDF analysis 
-   - Attempt 1 (Logistic Regression)
-     - Average accuracy: 0.00
-     - Model evaluation
+3. **Model Training Attempt 1 with Logistic Regression** 
+   - Attempted Logistic Regression
+     - Achieved an average accuracy of 0.00
+     - Evaluated model performance:
        - Confusion Matrix
-       - Recall, precision, F1 score
+       - Recall, Precision, F1 Score
        - Receiver Operating Characteristic (ROC) Curve & Area Under Curve (AUC)
        - Model weights
       
-4. **Model Training Attempt 2**
-   - Attempt 2 (KNN Clustering)
-     - Average accuracy: 0.00
-     - Model evaluation
+4. **Model Training Attempt 2 with KNN Clustering**
+   - Explored KNN Clustering
+     - Achieved an average accuracy of 0.00
+     - Evaluated model performance:
        - Confusion Matrix
-       - Recall, precision, F1 score
+       - Recall, Precision, F1 Score
        - Receiver Operating Characteristic (ROC) Curve & Area Under Curve (AUC)
        - Model weights
       
-5. **Model Training Attempt 3**
-   - Attempt 1 (Decision Tree)
-     - Train with top 5 predictors
-     - Average accuracy: 0.00
-     - Model evaluation
+5. **Model Training Attempt 3 with Decision Tree**
+   - Implemented Decision Tree
+     - Trained with top 5 predictors
+     - Achieved an average accuracy of 0.00
+     - Evaluated model performance:
        - Plotting decision tree
        - Confusion matrix
         
-6. **Model Training Attempt 4**
-   - Attempt 2 (Random Forest)
-     - Train with top 5 predictors
-     - Average accuracy: 0.00
-     - Model evaluation
+6. **Model Training Attempt 4 with Random Forest**
+   - Employed Random Forest
+     - Trained with top 5 predictors
+     - Achieved an average accuracy of 0.00
+     - Evaluated model performance:
        - Confusion matrix
-       - Grid search hyper-parameter tuning
-      
-## Remodelling with Upsampled Data
-3. **ReModel Training Attempt 1 with Upsampled Data**
-   - TF-IDF analysis 
-   - Attempt 1 (Logistic Regression)
-     - Average accuracy: 0.00
-     - Model evaluation
+       - Hyper-parameter tuning using Grid search
+
+## Remodeling with Upsampled Data
+1. **Re-Model Training Using Logistic Regression with Upsampled Data**
+   - Utilized TF-IDF analysis 
+   - Attempted Logistic Regression
+     - Achieved an average accuracy of 0.00
+     - Evaluated model performance:
        - Confusion Matrix
-       - Recall, precision, F1 score
+       - Recall, Precision, F1 Score
        - Receiver Operating Characteristic (ROC) Curve & Area Under Curve (AUC)
        - Model weights
       
-4. **ReModel Training Attempt 2**
-   - Attempt 2 (KNN Clustering)
-     - Average accuracy: 0.00
-     - Model evaluation
+2. **Re-Model Training using KNN Clustering with Upsampled Data**
+   - Explored KNN Clustering
+     - Achieved an average accuracy of 0.00
+     - Evaluated model performance:
        - Confusion Matrix
-       - Recall, precision, F1 score
+       - Recall, Precision, F1 Score
        - Receiver Operating Characteristic (ROC) Curve & Area Under Curve (AUC)
        - Model weights
       
-5. **ReModel Training Attempt 3**
-   - Attempt 1 (Decision Tree)
-     - Train with top 5 predictors
-     - Average accuracy: 0.00
-     - Model evaluation
+3. **Re-Model Training using Decision Tree with Upsampled Data**
+   - Implemented Decision Tree
+     - Trained with top 5 predictors
+     - Achieved an average accuracy of 0.00
+     - Evaluated model performance:
        - Plotting decision tree
        - Confusion matrix
         
-6. **ReModel Training Attempt 4**
-   - Attempt 2 (Random Forest)
-     - Train with top 5 predictors
-     - Average accuracy: 0.00
-     - Model evaluation
+4. **Re-Model Training using Random Forest with Upsampled Data**
+   - Employed Random Forest
+     - Trained with top 5 predictors
+     - Achieved an average accuracy of 0.00
+     - Evaluated model performance:
        - Confusion matrix
-       - Grid search hyper-parameter tuning
+       - Hyper-parameter tuning using Grid search
 
 ## Conclusion
 - Testing
 
 ## Key Learning Points
-- Different modeling methods (KNN, Logistic Regression, Random Forest)
-  - KNN clustering
-  - Logistic Regression
-  - Random Forest
-- Logistic regression model training & evaluation
-- Optimization of specifications for tuning of hyperparameters for random forest
-- Resampling of dataset to ensure a balanced view of the dataset.
+- Explored different modeling methods including KNN, Logistic Regression, and Random Forest
+- Gained insights into Logistic regression model training & evaluation
+- Explored optimization techniques for tuning hyperparameters for Random Forest
+- Utilized resampling techniques to ensure a balanced view of the dataset.
 
 ## Contributors
 
@@ -127,4 +122,3 @@ The presentation video can be found [here](INSERT YOUR YOUTUBE LINK HERE).
 
 ## References
 - List any references here.
-
