@@ -16,7 +16,7 @@ To address the problem of churn in telecom industry, companies may employ data a
 The dataset used for this project is retrieved from [Kaggle](https://www.kaggle.com/datasets/vhcg77/telcom-churns-dataset).
 
 ## Presentation
-The presentation video can be found [here](INSERT YOUR YOUTUBE LINK HERE).
+The presentation video can be found [here](https://youtu.be/MqlNC2YfwMQ).
 
 ## Brief Process Walkthrough 
 
