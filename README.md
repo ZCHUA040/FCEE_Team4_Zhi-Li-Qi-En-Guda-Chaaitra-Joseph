@@ -3,6 +3,7 @@
 ## About
 This is the mini project of Group 4 from Lab Group FCEE for SC1015 (Introduction to Data Science and Artificial Intelligence).
 
+Telecom churn refers to the phenomenon where customers switch from one telecom service provider to another. In Singapore, this is a significant issue for telecom companies as it impacts their revenue and market share. The problem statement typically involves understanding why customers churn, predicting which customers are likely to churn in the future, and implementing strategies to reduce churn rates.
 
 ## Problem Definition
 - TEST1
