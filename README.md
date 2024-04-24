@@ -3,7 +3,6 @@
 ## About
 This is the mini project of Group 4 from Lab Group FCEE for SC1015 (Introduction to Data Science and Artificial Intelligence).
 
-Given the escalating spread of fake news amid the COVID-19 pandemic, our team decided to delve into analyzing fake news.
 
 ## Problem Definition
 - TEST1
@@ -22,18 +21,15 @@ The presentation video can be found [here](INSERT YOUR YOUTUBE LINK HERE).
     - Salvaged empty rows by imputing mean values
     - Removed rows with missing data after cleaning steps (Dirty data)
     - Dropped irrelevant columns
-        
     - Generated data by upsampling minority classes to ensure overall balance.
 
 2. **Exploratory Data Analysis**
-   - Conducted class analysis
-   - Performed word count & character count analysis
-   - Analyzed authors' contributions
-   - Explored corpus statistics
-   - Utilized N-gram analysis
-   - Conducted sentiment & emotion analysis
-   - Performed parts-of-speech (POS) analysis
-   - Investigated correlation among features
+   - test
+   - test
+   - test
+   - test
+   - test
+
   
 3. **Model Training Attempt 1 with Logistic Regression** 
    - Attempted Logistic Regression
@@ -63,7 +59,7 @@ The presentation video can be found [here](INSERT YOUR YOUTUBE LINK HERE).
         
 6. **Model Training Attempt 4 with Random Forest**
    - Employed Random Forest
-     - Trained with top 5 predictors
+     - Trained with top 20 best predictors using K-best features.
      - Achieved an average accuracy of 0.00
      - Evaluated model performance:
        - Confusion matrix
